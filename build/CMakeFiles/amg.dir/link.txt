@@ -1,1 +1,0 @@
-/usr/lib/ccache/g++ CMakeFiles/amg.dir/src/tokenizer.cpp.o CMakeFiles/amg.dir/src/main.cpp.o -o amg  /usr/lib/x86_64-linux-gnu/libutf8proc.so 

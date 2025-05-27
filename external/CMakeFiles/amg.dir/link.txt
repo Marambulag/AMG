@@ -1,1 +1,0 @@
-/usr/lib/ccache/c++ CMakeFiles/amg.dir/src/tokenizer.cpp.o CMakeFiles/amg.dir/src/main.cpp.o -o amg 

@@ -1,3 +1,0 @@
-/home/manuel/amg/external/CMakeFiles/amg.dir
-/home/manuel/amg/external/CMakeFiles/edit_cache.dir
-/home/manuel/amg/external/CMakeFiles/rebuild_cache.dir
