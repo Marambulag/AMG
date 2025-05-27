@@ -18,3 +18,4 @@ private:
 } // namespace amg
 
 #endif // AMG_TOKENIZER_HPP
+// tokenizer.hpp
